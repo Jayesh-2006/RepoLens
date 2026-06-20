@@ -1,0 +1,64 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+venv/
+.venv/
+env/
+
+# Environment Variables
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# JetBrains
+.idea/
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Python Build
+build/
+dist/
+*.egg-info/
+
+# ChromaDB
+chroma_db/
+
+# Repository Data
+data/repos/
+
+# Neo4j
+data/databases/
+data/transactions/
+
+# Model Files
+*.pt
+*.pth
+*.bin
+*.safetensors
+
+# Evaluation Outputs
+results/
+outputs/
+
+# Temporary Files
+tmp/
+temp/
+
+# Coverage
+.coverage
+htmlcov/
+
+# Pytest
+.pytest_cache/
