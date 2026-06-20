@@ -124,7 +124,6 @@ RepoLens automatically extracts repository entities and relationships.
 
 - CALLS
 - IMPORTS
-- DEFINES
 - CONTAINS
 
 This graph enables graph-aware retrieval and multi-hop repository exploration.
